@@ -8,7 +8,7 @@ Version: 1.0
 Author URI: http://kipsoft.com
 */
 
-print_r(getenv(););exit;
+print_r(getenv());exit;
 //require_once(ABSPATH.'wp-includes/pluggable.php');
 
 
