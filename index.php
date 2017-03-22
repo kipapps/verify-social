@@ -8,7 +8,7 @@ Version: 1.0
 Author URI: http://kipsoft.com
 */
 
-require_once('./src/facebook.php');
+require_once('sdk/facebook/facebook.php');
 
 $facebook = new Facebook(array(
   'appId'  => getenv('FB_APPID'),
